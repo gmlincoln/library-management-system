@@ -1,7 +1,7 @@
 from  save_all_books import save_all_books
 
 
-def add_books(all_books):
+def add_book(all_books):
     title = input("Enter Book Title: ")
     author = input("Enter Author Name: ")
     isbn = input("Enter ISBN Number: ")
