@@ -15,6 +15,3 @@ Requirements:
 3. When a book is added, it should be automatically saved into a file.
 
 
-Task:
-1. Book Update 
-2. Book Delete 
